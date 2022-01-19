@@ -1,0 +1,3 @@
+Noções básicas de Git/Github;
+Git devidamente instalado localmente na máquina;
+Engajamento e vontade de aprender.
