@@ -1,0 +1,15 @@
+git clone https://github.com/MikeMacCav/Desafio-repositorio-DIO-Mike.git 
+(para baixar todos os arquivos até então disponíveis no meu repositório para minha pasta local);
+git init
+git status (para verificar o estatus do repositório, se tem algum aviso ou erro)
+git add . ou git add -A (comando para adicionar os arquivos recém criados na pasta)
+git commit -m "descrição da etapa" (para descrever cada etapa de atualização de arquivos git)
+
+git push -u origin master ou
+git push -u origin main
+(para subir todos os diretórios e seus arquivos para o meu repositório)
+
+E opcionalmente o comando history para visualizar todos os comandos executados.
+
+**Estes comandos funcionam tanto no MS-DOS quando no terminal do Linux pela minha experiência. 
+E acredito que são os mesmos para o Mac-OS.
